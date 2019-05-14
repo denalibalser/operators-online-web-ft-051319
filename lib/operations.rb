@@ -6,7 +6,6 @@ def unsafe?(speed)
   elsif speed > 60
     return true
   else
-    binding.pry
     return false
 end
 end
