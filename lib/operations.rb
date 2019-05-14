@@ -4,9 +4,9 @@ def unsafe?(speed)
   elsif speed > 60
     puts true
   else
-    puts false  
+    puts false
 end
-
+end
 
 
 def not_safe?(speed)
